@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_dcd9d46dc45ee8196b20854cd007f2e42297ac5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8e0a39c33fcb0786be0d1dacf318f3802e3c11d">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_ab9c06adb8a9688096aee32714acaf552d243c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e9cef1fa096bd73ae18f6dd678dc9f0a2c904ba">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/instant-run_2cd5944b065055531548f0cb205e98c92ad3b478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_da0df01f3131b4a1fb796bd56f85d54224084be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_1098230342530cc9a52c32885dc4e5f176d14e4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_d277b3edf75aa00db9fcfe00c6edaf4d083634da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_3d38eac5075c079305204e6f8c8e5c03e0f94253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_461b9459a8fb6d3c7b4e9c0a0397b08fbf4194cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_89abb233832923613e5c9c20042f9ccd05ad4995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0d09f0bf003e9d970c3b027b502630733dda25cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_fd127ab9cfced00c533152605ad5f75f84f77a35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_298a7ef4eb405b7287e48a90c161b8aab012eadc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_954a3e17d42352ec56d0666d123618b1f4a899ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_890534832a334628d6be1bb5d52d8ea96bbde836.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_b2d04661de14e224c1a03f94ec2d295e8ccf70af.jar" />
+    </item>
+
+</items>

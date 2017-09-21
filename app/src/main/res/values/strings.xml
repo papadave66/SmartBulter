@@ -1,7 +1,9 @@
 <resources>
-    <string name="app_name">SmartButler</string>
+    <string name="app_name">智能管家</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="butler">服务管家</string>
+    <string name="setting">设置</string>
+    <string name="text_guide">引导页</string>
 </resources>

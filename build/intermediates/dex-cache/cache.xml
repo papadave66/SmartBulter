@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="e614361b47f4c21075da97c813c234a9a544f5ba">
+        sha1="5d7dc388bdf8fff2103b4f5cebf9001d6765aa6e">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cd5944b065055531548f0cb205e98c92ad3b478/classes.dex" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="839829daa8d63d631b9a39e1ea4eab2d2359648e">
+        sha1="da454fb0d51f0479de2809a8f0c11753821aadd6">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab9c06adb8a9688096aee32714acaf552d243c01/classes.dex" />
     </item>
     <item
@@ -54,6 +54,15 @@
         revision="26.0.1"
         sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-26.0.0-alpha1_d277b3edf75aa00db9fcfe00c6edaf4d083634da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.tencent.bugly/crashreport/2.6.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21257e8fb439affef2a89c23ddfda45869ac0c31">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tencent.bugly-crashreport-2.6.5_e7306539eec5b900573dd0487ad897f5b1909103/classes.dex" />
     </item>
     <item
         is-multidex="true"

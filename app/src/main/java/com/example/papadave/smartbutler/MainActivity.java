@@ -14,6 +14,7 @@ import com.example.papadave.smartbutler.fragment.GirlFragment;
 import com.example.papadave.smartbutler.fragment.UserFragment;
 import com.example.papadave.smartbutler.fragment.WechatFragment;
 import com.example.papadave.smartbutler.ui.SettingActivity;
+import com.tencent.bugly.crashreport.CrashReport;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,6 +34,8 @@ private FloatingActionButton fab_setting;
 
         initData();
         initView();
+
+
     }
 
 

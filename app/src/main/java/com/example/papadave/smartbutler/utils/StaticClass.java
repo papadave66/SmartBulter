@@ -9,5 +9,6 @@ public class StaticClass {
 
     public static final String SHARE_IS_FIRST = "isFirst";
 
-
+    //bugly key
+    public static final String BUGLY_APP_ID = "da83606e3a";
 }

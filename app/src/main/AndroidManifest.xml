@@ -21,7 +21,8 @@
                 android:label="@string/setting"/>
         <activity android:name=".MainActivity">
         </activity>
-        <activity android:name=".ui.GuideActivity">
+        <activity android:name=".ui.GuideActivity"
+                    android:theme="@style/NoActivityFullscreen">
         </activity>
 
     </application>

@@ -28,6 +28,8 @@ private FloatingActionButton fab_setting;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //去掉阴影
+        getSupportActionBar().setElevation(0);
 
         initData();
         initView();

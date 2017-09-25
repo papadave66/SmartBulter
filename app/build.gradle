@@ -35,6 +35,7 @@ dependencies {
     compile 'com.tencent.bugly:crashreport:latest.release'
     //其中latest.release指代最新Bugly NDK版本号，也可以指定明确的版本号，例如3.0
     compile 'com.tencent.bugly:nativecrashreport:latest.release'
-
+    //bmob
+    compile 'cn.bmob.android:bmob-sdk:3.5.5'
     testCompile 'junit:junit:4.12'
 }

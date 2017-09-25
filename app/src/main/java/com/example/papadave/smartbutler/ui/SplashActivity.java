@@ -6,7 +6,6 @@ import android.os.Handler;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
-import com.example.papadave.smartbutler.MainActivity;
 import com.example.papadave.smartbutler.R;
 import com.example.papadave.smartbutler.utils.ShareUtils;
 import com.example.papadave.smartbutler.utils.StaticClass;
@@ -33,7 +32,7 @@ public class SplashActivity extends AppCompatActivity {
                     if (isFirst()) {
                         startActivity(new Intent(SplashActivity.this, GuideActivity.class));
                     } else {
-                        startActivity(new Intent(SplashActivity.this, GuideActivity.class));
+                        startActivity(new Intent(SplashActivity.this, LoginActivity.class));
                     }
                     finish();
                     break;

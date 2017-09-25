@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="5d7dc388bdf8fff2103b4f5cebf9001d6765aa6e">
+        sha1="28fff76da2a4216c663201ba88d9edb6d3d12b11">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2cd5944b065055531548f0cb205e98c92ad3b478/classes.dex" />
     </item>
     <item
@@ -21,12 +21,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_8743b7429732a78813b1543161676e135e2e5f8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/BmobSDK_3.5.5_20170420.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f67cfc97fcbde8b4764f01135b10afa716ae1a40">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/BmobSDK_3.5.5_20170420_903e3a558cd3e2359cc433470b48fbf389406a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-26.0.0-alpha1_dcd9d46dc45ee8196b20854cd007f2e42297ac5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.6_29809480f3e4dbc9dae29aaedb2fa5d58817f9d1/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -39,11 +66,29 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/okio-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f64e0f80ef26fbc722b4bc9f024370d5b1e8f6d6">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.7.0_c5d7c864d51d4244f6b9ad6f59e109aaa7df294d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-1.2.0_d7b55417af346226cbced5b464c4d7080596c7c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="da454fb0d51f0479de2809a8f0c11753821aadd6">
+        sha1="a13f1bee69eb5e59dc793c22a13634f0eb74617c">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ab9c06adb8a9688096aee32714acaf552d243c01/classes.dex" />
     </item>
     <item
@@ -111,6 +156,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac71d1248d0f3577b39093396e6ff35582a5d7a4">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.bmob.android-bmob-sdk-3.5.5_b4dc2cd64e3fcb5ed65a2e0de693c4537cbb306a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -135,6 +189,15 @@
         revision="26.0.1"
         sha1="88246166d5afb106f532f6e6deae683c66b42c89">
         <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.0.0-alpha1_890534832a334628d6be1bb5d52d8ea96bbde836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/papadave/Documents/SmartBulter/app/build/intermediates/exploded-aar/cn.bmob.android/bmob-sdk/3.5.5/jars/libs/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e009af854d43130a9a13bcba900ddd1124e835d5">
+        <dex dex="/Users/papadave/Documents/SmartBulter/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_caa1434b31dc8f224120643fb48e167ebeb32f48/classes.dex" />
     </item>
     <item
         is-multidex="true"

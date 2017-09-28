@@ -17,13 +17,13 @@ public class CustomDialog extends Dialog {
                 WindowManager.LayoutParams.WRAP_CONTENT,layout,style, Gravity.CENTER);
 
     }
-    public CustomDialog (Context context,int width,int heigh,int layout,int style,int gravity,int anim){
+    public CustomDialog (Context context,int width,int height,int layout,int style,int gravity,int anim){
         super(context,style);
         setContentView(layout);
         Window window = getWindow();
         WindowManager.LayoutParams layoutParams = window.getAttributes();
         layoutParams.width=width;
-        layoutParams.height=heigh;
+        layoutParams.height=height;
         layoutParams.gravity=gravity;
         window.setAttributes(layoutParams);
         window.setWindowAnimations(anim);

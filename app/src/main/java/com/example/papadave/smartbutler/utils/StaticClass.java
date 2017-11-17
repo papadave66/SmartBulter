@@ -14,4 +14,10 @@ public class StaticClass {
     //bmob
     public static final String BMOB_APP_ID = "895b6886a03f8bce6a19c2a890e2bc4e";
 
+    //快递api
+    public static final String COURIER_APP_ID = "fa6dc92d3f11f1b385364eec79a6489c";
+
+    public static final String CHAT_LIST_KEY = "6c678a8a58514284827f31fa61c00129";
+
+    public static final String WECHAT_KEY = "78f723dccf85aea324a3cf0daac97f35";
 }

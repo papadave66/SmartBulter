@@ -50,7 +50,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         boolean isKeep = ShareUtils.getBoolean(this, "keeppass", false);
         keep_password.setChecked(isKeep);
 
-        dialog = new CustomDialog(this, 150, 150, R.layout.dialog_loding, R.style.Theme_dialog, Gravity.CENTER,R.style.pop_anim_style);
+        dialog = new CustomDialog(this, 200, 200, R.layout.dialog_loding, R.style.Theme_dialog, Gravity.CENTER,R.style.pop_anim_style);
         dialog.setCancelable(false);
 
         if(isKeep){

@@ -3,15 +3,12 @@ package com.example.papadave.smartbutler.fragment;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
-import android.graphics.drawable.BitmapDrawable;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v4.app.Fragment;
 import android.text.TextUtils;
-import android.util.Base64;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -25,15 +22,13 @@ import cn.bmob.v3.exception.BmobException;
 import cn.bmob.v3.listener.UpdateListener;
 import com.example.papadave.smartbutler.R;
 import com.example.papadave.smartbutler.entity.MyUser;
+import com.example.papadave.smartbutler.ui.CourierActivity;
 import com.example.papadave.smartbutler.ui.LoginActivity;
 import com.example.papadave.smartbutler.utils.L;
-import com.example.papadave.smartbutler.utils.ShareUtils;
 import com.example.papadave.smartbutler.utils.UtilTools;
 import com.example.papadave.smartbutler.view.CustomDialog;
 import de.hdodenhof.circleimageview.CircleImageView;
 
-import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
 import java.io.File;
 
 
@@ -58,6 +53,8 @@ public class UserFragment extends Fragment implements View.OnClickListener {
     private EditText et_age;
     private EditText et_desc;
 
+    private TextView tv_courier;
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -70,6 +67,8 @@ public class UserFragment extends Fragment implements View.OnClickListener {
     }
 
     private void findView(View view) {
+        tv_courier = view.findViewById(R.id.tv_courier);
+        tv_courier.setOnClickListener(this);
         btn_exit_user = view.findViewById(R.id.btn_exit_user);
         btn_exit_user.setOnClickListener(this);
         edit_user = view.findViewById(R.id.edit_user);
@@ -87,7 +86,7 @@ public class UserFragment extends Fragment implements View.OnClickListener {
         profile_image.setOnClickListener(this);
         //初始化dialog
 
-        dialog = new CustomDialog(getActivity(), 500, 500,
+        dialog = new CustomDialog(getActivity(), 600, 600,
                 R.layout.dialog_photo, R.style.pop_anim_style, Gravity.BOTTOM, 0);
         //提示框以外点击无效
         dialog.setCancelable(false);
@@ -204,6 +203,9 @@ public class UserFragment extends Fragment implements View.OnClickListener {
             case R.id.btn_cancel:
                 dialog.dismiss();
                 break;
+
+            case R.id.tv_courier:
+                startActivity(new Intent(getActivity(),CourierActivity.class));
         }
     }
 

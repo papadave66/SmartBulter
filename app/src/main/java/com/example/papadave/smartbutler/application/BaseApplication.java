@@ -3,6 +3,8 @@ package com.example.papadave.smartbutler.application;
 import android.app.Application;
 import cn.bmob.v3.Bmob;
 import com.example.papadave.smartbutler.utils.StaticClass;
+import com.iflytek.cloud.SpeechConstant;
+import com.iflytek.cloud.SpeechUtility;
 import com.tencent.bugly.crashreport.CrashReport;
 
 /**
@@ -16,6 +18,8 @@ public class BaseApplication extends Application {
         CrashReport.initCrashReport(getApplicationContext(), StaticClass.BUGLY_APP_ID, true);
         //初始化bmoob
         Bmob.initialize(this, StaticClass.BMOB_APP_ID);
+        //语音
+        //SpeechUtility.createUtility(getApplicationContext(), SpeechConstant.APPID +"=5a0b9562");
 
     }
 }

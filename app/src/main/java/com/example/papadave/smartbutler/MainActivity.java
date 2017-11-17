@@ -10,11 +10,9 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import com.example.papadave.smartbutler.fragment.ButlerFragment;
-import com.example.papadave.smartbutler.fragment.GirlFragment;
 import com.example.papadave.smartbutler.fragment.UserFragment;
 import com.example.papadave.smartbutler.fragment.WechatFragment;
 import com.example.papadave.smartbutler.ui.SettingActivity;
-import com.tencent.bugly.crashreport.CrashReport;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -41,15 +39,13 @@ private FloatingActionButton fab_setting;
 
     private void initData() {
         mTitle = new ArrayList<>();
-        mTitle.add("服务管家");
-        mTitle.add("微信精选");
-        mTitle.add("图片壁纸");
+        mTitle.add("聊天机器人");
+        mTitle.add("微信新闻");
         mTitle.add("个人中心");
 
         mFragment = new ArrayList<>();
         mFragment.add(new ButlerFragment());
         mFragment.add(new WechatFragment());
-        mFragment.add(new GirlFragment());
         mFragment.add(new UserFragment());
     }
     private void initView() {
